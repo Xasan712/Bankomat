@@ -19,7 +19,7 @@ Clone the Repository:
 
 bash
 Копировать код
-git clone https://github.com/yourusername/payment-system.git
+git clone (https://github.com/Xasan712)
 cd payment-system
 Create and Activate Virtual Environment (Optional):
 
